@@ -17,7 +17,7 @@
            
          //function that clear the display 
          function clr() 
-         { 
+          { 
              document.getElementById("result").value = "" 
          } 
       </script> 
